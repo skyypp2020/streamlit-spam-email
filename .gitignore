@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.build/
+.dist/
+
+# Virtual env
+.venv/
+venv/
+ENV/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Streamlit / cache
+.streamlit/
+**/.cache/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Models/artifacts
+models/
+artifacts/
+
+# Datasets: keep the required CSV only
+datasets/*
+!datasets/sms_spam_no_header.csv
+
+# Node (if any)
+node_modules/
+
+# Reports
+reports/
