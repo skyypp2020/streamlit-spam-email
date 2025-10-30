@@ -1,5 +1,7 @@
 # Streamlit Spam Analysis App
 
+Demo Site: https://app-spam-email-d4cf7jtshc9gkq5ovdefbs.streamlit.app/
+
 This app implements the OpenSpec spec at `openspec/specs/spam-analysis/spec.md`.
 
 ## Quickstart
